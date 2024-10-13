@@ -1,0 +1,6 @@
+# Worker 项目的名称
+name = "ai-image-generator"
+
+# 你的 Cloudflare 账户 ID，需要替换为实际的 ID
+account_id = "你的Cloudflare账户ID"
+
