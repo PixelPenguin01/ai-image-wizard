@@ -2,7 +2,7 @@
 
 这是一个基于Cloudflare Workers的AI图像生成Web应用。用户可以输入创意提示词，选择不同的AI模型来生成独特的图像。
 
-[![🌐 演示地址](https://img.shields.io/badge/🌐_演示地址-点击访问-blue)](https://your-demo-url.com) [![🎥 演示视频](https://img.shields.io/badge/🎥_演示视频-观看演示-red)](https://your-video-url.com) [![📚 部署教程](https://img.shields.io/badge/📚_部署教程-查看指南-green)](https://your-deployment-guide-url.com)
+[![🌐 演示地址](https://img.shields.io/badge/🌐_演示地址-点击访问-blue)](https://test1.c1432276782.workers.dev/) [![🎥 演示视频](https://img.shields.io/badge/🎥_演示视频-观看演示-red)](https://www.bilibili.com/video/BV13N26YREvC) [![📚 部署教程](https://img.shields.io/badge/📚_部署教程-查看指南-green)](https://www.bilibili.com/video/BV15f2zYfEhQ)
 
 ## 🚀 特性
 
